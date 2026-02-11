@@ -82,5 +82,3 @@ A personalized fashion styling web application.
 I love building clean, functional applications and exploring how full-stack systems work from frontend to backend.
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niketh-Vijay-K)](https://git.io/streak-stats)
