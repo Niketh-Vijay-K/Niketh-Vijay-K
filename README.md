@@ -11,13 +11,24 @@ Strong academic record with consistent excellence in Computer Science subjects.
 
 ## 🚀 Projects
 
+   
+### **AegisVote**
+A decentralized blockchain-based e-voting system.
+
+- Developed using **React.js** for a secure and user-friendly voting interface
+- Built **Node.js + Express.js** backend with REST APIs and token-based authentication
+- Uses **SQL** for managing voter and election data
+- Implements **Blockchain**, **Distributed Key Generation (DKG)**, and **Homomorphic Encryption** for secure, transparent, and tamper-resistant elections
+
+---
+
 ### **EStylist**
 A personalized fashion styling web application.
 
-- Developed using **React.js** for an interactive and dynamic UI  
-- Built **Node.js + Express.js** backend with REST APIs  
-- Uses **MongoDB** for efficient storage and retrieval  
-- Includes modals, grids & conditional rendering for better UX  
+- Developed using **React.js** for an interactive and dynamic UI
+- Built **Node.js + Express.js** backend with REST APIs
+- Uses **MongoDB** for efficient storage and retrieval
+- Includes modals, grids & conditional rendering for better UX
 
 ---
 
